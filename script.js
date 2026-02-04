@@ -3,7 +3,8 @@ const quotes = [
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
     "My wife said I should do lunges to stay in shape. That\'s a big step for me.",
     "What do you call a fake noodle? An impasta.",
-    "Did you hear about the guy who invented the knock-knock joke? He won a no-bell prize."
+    "Did you hear about the guy who invented the knock-knock joke? He won a no-bell prize.",
+    "Parallel lines have so much in common. It’s a shame they’ll never meet."
 ];
 
 const quoteText = document.getElementById('quote-text');
